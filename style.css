@@ -4,6 +4,10 @@
     height: 50px;
     border-bottom: 1px solid black;
 }
+#maincontent {
+    width: 70%;
+    margin: 0px auto;
+}
 #signUpIn {
     float: right;
     margin: 5px;
