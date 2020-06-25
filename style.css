@@ -4,7 +4,8 @@
     height: 50px;
     border-bottom: 1px solid black;
 }
-#btnSignIn {
+#signUpIn {
     float: right;
     margin: 5px;
+    display: inline-flex;
 }
