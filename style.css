@@ -1,0 +1,10 @@
+#header {
+    width: 100%;
+    text-align: center;
+    height: 50px;
+    border-bottom: 1px solid black;
+}
+#signIn {
+    float: right;
+    margin: 5px;
+}
